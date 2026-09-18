@@ -1,0 +1,11 @@
+*.ps1
+*.json
+*.bak
+*.md
+!README.md
+*.txt
+!requirements.txt
+
+__pycache__
+.pytest_cache
+tests
